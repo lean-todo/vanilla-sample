@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-sample",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript (ECMAScript 5.1) implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lean-todo/vanilla-sample.git"
+  },
+  "keywords": [
+    "todomvc",
+    "vanilla"
+  ],
+  "author": "Michael Alt <todo@lean-stack.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lean-todo/vanilla-sample/issues"
+  },
+  "homepage": "https://github.com/lean-todo/vanilla-sample#readme"
+}
