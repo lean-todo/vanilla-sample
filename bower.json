@@ -13,5 +13,8 @@
   "homepage": "https://github.com/lean-todo/vanilla-sample",
   "dependencies": {
     "jquery": "^3.1.1"
+  },
+  "install": {
+     "path": "public/deps"
   }
 }
