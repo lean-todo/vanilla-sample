@@ -2,7 +2,6 @@
   "name": "vanilla-sample",
   "version": "1.0.0",
   "description": "Vanilla JavaScript (ECMAScript 5.1) implementation.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "browser-sync start --server 'public' --files 'public'"
@@ -22,7 +21,6 @@
   },
   "homepage": "https://github.com/lean-todo/vanilla-sample#readme",
   "devDependencies": {
-    "bower-installer": "^1.3.4",
     "browser-sync": "^2.18.6"
   }
 }
